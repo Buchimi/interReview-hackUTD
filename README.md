@@ -45,7 +45,7 @@ npm install
 ```
 
 Start the development server:
-``bash
+```bash
 npm start
 ```
 
