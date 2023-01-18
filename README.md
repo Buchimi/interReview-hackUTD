@@ -32,4 +32,33 @@ We would like to add a user-generated question sets and a resource that includes
 
 ![original](https://user-images.githubusercontent.com/67282772/201791003-f55598b1-f58f-4b18-b14b-593245c17a5b.png)
 
+## Getting Started
 
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/[username]/Interview-Video-Helper.git
+```
+
+Install the dependencies:
+```bash
+npm install
+```
+
+Start the development server:
+``bash
+npm start
+```
+
+open the link provided after running the previous commands.
+
+### Prerequisites
+Node.js
+npm
+Firebase account and project setup
+
+Built With
+React
+Firebase
+### Authors
+[Michael Ugochukwu](https://www.linkedin.com/in/michael-ugochukwu/)
+...(other authors would be added soon)
