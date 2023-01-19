@@ -36,7 +36,7 @@ We would like to add a user-generated question sets and a resource that includes
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/[username]/Interview-Video-Helper.git
+git clone https://github.com/Shaurya0108/interReview-hackUTD.git
 ```
 
 Install the dependencies:
