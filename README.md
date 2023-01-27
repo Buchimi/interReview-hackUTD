@@ -12,18 +12,10 @@ InterReview allows the user to upload video answers of prompts from interviews o
 
 ### How we built it
 
-We built the app using the React framework with the help of the FireBase database for video storage and retrieval. Also, we used Amazon Web Services (AWS) for our server-less backend.
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
+We built the app using the React framework with the help of the FireBase database for video storage and retrieval.
 
-### Challenges we ran into
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
-Retrieving data from the S3 buckets database of Amazon Web Services
-Learning new technologies such as React and understanding the working of AWS backend services
-Working with version-control.
-
-### What we learned
-
-New technologies like S3 Storage, video-capture, and React
 
 ### What's next for InterReview
 
@@ -61,4 +53,8 @@ React
 Firebase
 ### Authors
 [Michael Ugochukwu](https://www.linkedin.com/in/michael-ugochukwu/)
-...(other authors would be added soon)
+
+[Shaurya DwivediView](https://www.linkedin.com/in/shaurya-dwivedi/)
+
+[Arrio Gonsalves](https://www.linkedin.com/in/adgarrio/)
+
